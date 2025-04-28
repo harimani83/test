@@ -1,1 +1,1 @@
-this is file one  new createdin master branch again modified in master branch
+this is file  new created in master branch now modified in feature branch
